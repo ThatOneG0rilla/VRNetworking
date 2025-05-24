@@ -21,6 +21,34 @@ Example:
 NetworkManager.SetCosmetic("Head", "Hat");
 ```
 
+### `SetPlayerColor`
+- Sets a players color
+Example:
+```csharp
+NetworkManager.SetPlayerColor(color);
+```
+
+### `SetPlayerName`
+- Sets a players name
+Example:
+```csharp
+NetworkManager.SetPlayerName(name);
+```
+
+### `JoinRandom`
+- Joins a random room
+Example:
+```csharp
+NetworkManager.JoinRandom();
+```
+
+### `JoinPrivate`
+- Joins a private room
+Example:
+```csharp
+NetworkManager.JoinPrivate(roomID);
+```
+
 # Info
 I will be posting future versions in [Discord](https://discord.gg/gorillasdevhub). Join to get updates.
 If you want to purchase VRNetworking Plus, you can buy it here:
