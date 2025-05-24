@@ -12,6 +12,9 @@ The package offers a range of features, including:
 - Many bools and settings for customisability
 - Automatic naming when name is not set
 - Syncs name to playfab automatically
+- Logging user when they join, leave, connect and disconnect fron a room
+- Improved playfab login
+- Moderator item safety in playfab login
 
 ## Script Usage
 ### `SetCosmetic`
