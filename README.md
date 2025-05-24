@@ -1,2 +1,26 @@
-# VRNetworking
-A better alternative to photon vr for photon pun networking.
+# Introduction
+Steps:
+1. Import the package.
+2. Input your app id, and voice id
+3. If you want backup servers, input those ids as well.
+4. Use the Objects in the example scene.
+5. Input all player settings that is needed, and change any settings you want.
+
+The package offers a range of features, including:
+- Large amount of debug
+- Backup servers
+- Many bools and settings for customisability
+- Automatic naming when name is not set
+- Syncs name to playfab automatically
+
+## Script Usage
+### `SetCosmetic`
+- Sets a players cosmetic
+Example:
+```csharp
+NetworkManager.SetCosmetic("Head", "Hat");
+```
+
+# Info
+I will be posting future versions in [Discord](https://discord.gg/gorillasdevhub). Join to get updates.
+If you want to purchase VRNetworking Plus, you can buy it here:
