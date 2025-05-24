@@ -1,10 +1,11 @@
 # Introduction
 Steps:
 1. Import the package.
-2. Input your app id, and voice id
+2. Input your app id, and voice id.
 3. If you want backup servers, input those ids as well.
 4. Use the Objects in the example scene.
 5. Input all player settings that is needed, and change any settings you want.
+6. Add a webhook, or leave it blank and leave all logging bools false.
 
 The package offers a range of features, including:
 - Large amount of debug
